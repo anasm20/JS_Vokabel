@@ -1,3 +1,4 @@
+//https://github.com/anasm20
 let dictionary = JSON.parse(localStorage.getItem('dictionary')) || {};
 let randomGermanWord;
 
